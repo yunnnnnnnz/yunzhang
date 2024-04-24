@@ -1,5 +1,11 @@
-- title: 'Professor of Physics'
-  description: 'McMaster University (2005 – present)'
+- title: "Marketing & Data Management Intern"
+  company: "AEGON-Industrial Fund Management"
+  period: "May 2023 - Jul 2023"
+  details:
+    - "Conducted Monte Carlo Simulation on fund performance data from China Securities Journal to assess the profitability of the company’s 55 fund products over a five-year period, enhancing fund portfolio building of 2 new funds (Xingchen and Zhaoyi) and contributing to the successful launch and market penetration of a $100 million investment."
+    - "Enhanced the decision-making process by offering valuable insights into net fund values by automating comprehensive weekly fund reports for 55 funds."
+    - "Developed a high-precision General Additive Model, effectively analyzing and predicting public engagement trends on the company's four social media platforms, ensuring alignment with fund marketing strategies."
+    - "Authored two pivotal articles, \"Investors Finding the Investing Safe Haven\" and \"Why does Lottery Attract Young People?\", achieving 24,774 page views, showcasing expertise and insight into investment trends."
 
 - title: 'Associate Faculty'
   description: 'McGill University (1987 – 2005)'
