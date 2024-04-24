@@ -1,1 +1,13 @@
+- company: "Cornell SC Johnson Business School"
+  period: "Nov 2022 - present"
+  title: "Research Assistant & Data Analyst"
+  details:
+   - "Utilized STATA for in-depth regression analysis on Hertz Car Rental’s customer transactions and data for 30 months, uncovering insights to refine business strategies and enhance customer engagement."
+   - "Leveraged R and the Globus supercomputer for comprehensive time series model fitting, yielding insights into stock exchange dynamics and market microstructures through stock data spanning eight years."
 
+- company: "Cornell SC Johnson Business School"
+  period: "Jan 2023 - present"
+  title: "Teaching Assistant"
+  details:
+   - "Developed comprehensive and challenging case studies on various topics including DCF analysis, which played a crucial role in the academic success of students in “Corporate Finance”."
+   - "Provided insightful office hours contributing to an enriched learning environment and enhanced student performance."
