@@ -7,5 +7,26 @@
     - "Developed a high-precision General Additive Model, effectively analyzing and predicting public engagement trends on the company's four social media platforms, ensuring alignment with fund marketing strategies."
     - "Authored two pivotal articles, \"Investors Finding the Investing Safe Haven\" and \"Why does Lottery Attract Young People?\", achieving 24,774 page views, showcasing expertise and insight into investment trends."
 
-- title: 'Associate Faculty'
-  description: 'McGill University (1987 – 2005)'
+- company: "Industrial & Commercial Bank of China"
+  period: "Jun 2021 - Aug 2021"
+  title: "Investment Analyst Intern"
+  details:
+    - "Tailored portfolio, income, and cash flow analyses for 15 clients, optimizing investment alignments."
+    - "Significantly enhanced marketing strategies, leading to improved targeting and a 10% increase in customer acquisition rates for \"Xinzunli\" wealth management product."
+    - "Developed an automated analysis tool using Excel and STATA for the new product, employing polynomial regression to predict customers’ purchasing probabilities."
+
+- company: "Cornell Venture and Entrepreneurship Club"
+  period: "Aug 2022 - present"
+  title: "Financial Analyst & Project Manager"
+  details:
+    - "Conducted market research and competitor analysis for a startup’s handheld fluorescence spectrometer, engaging with relevant agricultural sectors (grape & cannabis) to gather insights about industrial needs."
+    - "Led a market application analysis of a solar cogeneration patent, developing market sizing models that elucidated potential in cooking and charging markets across 143 U.S. National Parks."
+
+- company: "Cornell Ann S. Bowers College of Computing and Information Science"
+  period: "Aug 2023 - Dec 2023"
+  title: "Data Analyst & Project Manager"
+  details:
+    - "Analyzed a dataset of 1,910 individuals’ health data in the United States, conducting data cleaning, machine learning, and establishing a logistic regression model to predict cardiac event risks."
+    - "Implemented data imputation strategies for 13% missing values. Identified significant predictors like diabetes, smoking, and age through statistical testing, with age showing a 7.0% increase in cardiac event odds per year."
+    - "Achieved model accuracy with an AUC of 0.82 in ROC analysis, effectively balancing sensitivity (67.0%) and specificity (79.1%) in prediction outcomes, optimized the logistic regression model and GLM models to minimize Akaike Information Criterion for better fit."
+
