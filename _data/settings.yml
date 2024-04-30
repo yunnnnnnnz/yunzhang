@@ -2,7 +2,7 @@ menu:
 - {name: 'EXPERIENCE', url: '/cv'}
 - {name: 'INTERESTS', url: '/interests'}
 - {name: 'COURSEWORK', url: '/courses'}
-- {name: 'CONTACT', url: '/contacts'}
+- {name: 'CONTACT', url: '/contact'}
 
 interests:
 
