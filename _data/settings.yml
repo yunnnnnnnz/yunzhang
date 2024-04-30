@@ -5,6 +5,14 @@ menu:
 - {name: 'CONTACT', url: '/contact'}
 
 interests:
+- {name: 'INTERESTS'}
+- {name: 'President & Singer of Cornell REAL A Cappella'}
+- {name: 'Journalism (Chief Editor of High School newspaper)'}
+- {name: 'KPOP Song Covers'}
+- {name: 'LANGUAGES'}
+- {name: 'Proficient English, Native Chinese, Intermediate Korean'}
+- {name: 'COMPUTER SKILLS'}
+- {name: 'Python, C++, SQL, R, Excel, STATA, CANVA, Logic Pro, Adobe Audition, iMovie'}
 
 courses:
 - {name: 'ORIE 5270:Computational Methods in Operations Research'}
