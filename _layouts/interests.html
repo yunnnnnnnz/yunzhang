@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Interests
 ---
 
-<div class="container">
-  <div class="page-header">
-    <h1>Interests</h1>
-  </div>
-  <div class="page-content">
-    {% include 'interests.html' %}
+<div class="main-content">
+  <div class="container">
+    <h1 class="page-title">Interests</h1>
+    <div class="interests-content">
+      {{ content }}
+      {% include interests.html %}
+    </div>
   </div>
 </div>
 
