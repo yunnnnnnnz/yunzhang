@@ -1,25 +1,24 @@
 menu:
-- {name: 'people', url: '/people'}
-- {name: 'publications', url: '/publications'}
-- {name: 'courses', url: '/courses'}
-- {name: 'cv', url: '/cv'}
-- {name: 'contact', url: '/contact'}
+- {name: 'EXPERIENCE', url: '/cv'}
+- {name: 'INTERESTS', url: '/interests'}
+- {name: 'COURSEWORK', url: '/courses'}
+- {name: 'CONTACT', url: '/contacts'}
 
-people:
-- {name: 'Primary Investigator', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/primary-investigator.jpg', url: 'primary-investigator'}
-- {name: 'Lab Technician', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/lab-technician.jpg', url: 'lab-technician'}
-- {name: 'Graduate Student', title: 'Researcher', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/graduate-student.jpg', url: 'graduate-student'}
+interests:
 
 courses:
-- {name: 'Vector Calculus', url: 'vector-calculus'}
-- {name: 'Quantum Mechanics', url: 'quantum-mechanics'}
-- {name: 'Stellar Structures', url: 'stellar-structures'}
+- {name: 'ORIE 5270:Computational Methods in Operations Research'}
+- {name: 'NBA 5420: Investment and Portfolio Management'}
+- {name: 'ORIE 5370: Supply Chain Management'}
+- {name: 'AEM 2210: Financial Accounting'}
+- {name: 'STSCI 4740: Data Mining & Machine Learning'}
+- {name: 'STSCI 4520: Statistical Computing'}
+- {name: 'More Courses'}
 
 social:
-- {icon: 'github', link: 'https://github.com/LeNPaul'}
-- {icon: 'twitter', link: 'https://twitter.com/paululele'}
-- {icon: 'instagram', link: 'https://instagram.com/paululele'}
-- {icon: 'linkedin', link: 'https://linkedin.com/in/lenpaul'}
+- {icon: 'github', link: 'https://github.com/yunnnnnnnz'}
+- {icon: 'instagram', link: 'https://instagram.com/yunnnnnnnz'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yun-zhang-cornell-university/'}
 
 contacts:
-- {name: 'Dr. Academia', title: 'Professor', department: 'Physics & Astronomy', institution: 'Some University', institution_address: '1 Main Street, Canada', phone: '(000) 000-0000', email: 'hello@university.edu', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Yun Zhang', title: 'Cornell University Undergraduate and Master Student', department: 'Operations Research and Information Engineering', institution: 'Cornell University', phone: '(984) 261-5630', email: 'yz2847@cornell.edu', image: 'assets/img/contact.jpg'}
