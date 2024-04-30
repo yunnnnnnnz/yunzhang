@@ -5,15 +5,10 @@ menu:
 - {name: 'CONTACT', url: '/contact'}
 
 interests:
-  - name: 'Music'
-    description: 'As the President & Singer of Cornell REAL A Cappella, I have a passionate involvement in music, particularly in performing KPOP song covers.'
-  - name: 'Journalism'
-    description: 'Drawing from my experience as the Chief Editor of my high school newspaper, I have a deep interest in journalism and written expression.'
-  - name: 'Languages'
-    description: 'I pride myself on being multilingual. I am proficient in English, speak Chinese natively, and have intermediate skills in Korean.'
-  - name: 'Computer Skills'
-    description: 'My technical skills are vast, ranging from programming in Python, C++, and SQL, to statistical analysis in R and Excel, to creative endeavors using STATA, CANVA, Logic Pro, Adobe Audition, and iMovie.'
-
+- {name: 'Music', description: 'As the President & Singer of Cornell REAL A Cappella, I have a passionate involvement in music, particularly in performing KPOP song covers.'}
+- {name: 'Journalism', description: 'Drawing from my experience as the Chief Editor of my high school newspaper, I have a deep interest in journalism and written expression.'}
+- {name: 'Languages', description: 'I pride myself on being multilingual. I am proficient in English, speak Chinese natively, and have intermediate skills in Korean.'}
+- {name: 'Computer Skills', description: 'My technical skills are vast, ranging from programming in Python, C++, and SQL, to statistical analysis in R and Excel, to creative endeavors using STATA, CANVA, Logic Pro, Adobe Audition, and iMovie.'}
 
 courses:
 - {name: 'ORIE 5270:Computational Methods in Operations Research'}
