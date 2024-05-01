@@ -1,4 +1,4 @@
 ---
-layout: interest
+layout: interests
 title: "Interests"
 ---
